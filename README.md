@@ -1,12 +1,10 @@
-## Bienvenida al hackeador de ordenadores jodidos
+## Bienvenida a la página web de Flatukin, también conocido a veces como Flatukon.
 
-You can use the [editor on GitHub](https://github.com/AlejandroTSoto/AlejandroTSoto.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+En esta página web solo nos vamos a encargar de comentarle cuales son las únicas evidencias que hemos conseguido observado.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Primera evidencia
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Su ordenador va bastante pocho y eso es un hecho. Llame ya a PcComponentes y caguese en su puta vida :innocent:
 
 ```markdown
 Syntax highlighted code block
